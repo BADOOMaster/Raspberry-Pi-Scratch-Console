@@ -1,0 +1,14 @@
+{
+  "name": "raspberrypiconsole",
+  "version": "0.0.1",
+  "description": "This is a Scratch game console specificaly made for the raspberry pi!",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "pi"
+  ],
+  "author": "Bennudabomb",
+  "license": "GPL 3.0"
+}
